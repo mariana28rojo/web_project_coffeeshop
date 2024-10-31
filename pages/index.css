@@ -130,7 +130,7 @@
 .recipes {
   display: flex;
   flex-direction: column;
-  height: 100hv;
+  height: 100vh;
   background-image: url("../images/background_recipes.svg");
   background-size: cover;
   background-position: center;
